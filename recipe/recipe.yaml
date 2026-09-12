@@ -19,7 +19,7 @@ source:
       then: osx_patch.diff
 
 build:
-  number: 3
+  number: 4
   skip:
     - win
 
